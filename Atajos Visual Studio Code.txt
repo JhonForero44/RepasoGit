@@ -1,0 +1,18 @@
+Moverse entre archivos -> Control P
+Editar varias incidencias al mismo tiempo -> Control D / Control U
+Cambiar de pestaña -> Control Tab
+Linea expesifica -> Control G
+Seleccionar varias lineas -> Control L
+Mover linea de lugar -> Alt Flecha arriba o abajo
+Duplicar linea -> Shift alt Feclaha arriba o abajo
+Comentar codigo -> Shift alt A
+Mover asia arriba o asia abajo -> Control arriba o abajo
+Adaptar las lineas del codigo a tu pantalla -> Alt Z
+Formatear archivo por completro -> Shift alt f
+Buscar algo dentro del archvio -> Control F
+Seleccionar todas las coicidencias -> Alt F
+Ver parametros que puede ir -> Control Shift Space
+Comando a poder usar -> Control Shift P
+
+
+

@@ -7,11 +7,9 @@ Vídeo: https://youtu.be/1glVfFxj8a4?t=8652
 
 // 1. Imprime por consola tu nombre si una variable toma su valor
 
-
-
 // 2. Imprime por consola un mensaje si el usuario y contraseña concide con unos establecidos
 
-// 3. Verifica si un número es positivo, negativo o cero e imprime un mensaje
+/* 3. Verifica si un número es positivo, negativo o cero e imprime un mensaje
 let numero = -1
 
 if (numero > 0){
@@ -21,8 +19,19 @@ if (numero > 0){
 } else {
     console.log("El numero es Cero")
 }
+*/
 
 // 4. Verifica si una persona puede votar o no (mayor o igual a 18) e indica cuántos años le faltan
+function edadPersona(edad){
+    if (edad >= 18){
+        return "La persona ya puede votar";
+    } else {
+        let edadFaltante = 18 - edad;
+        return "La persona no puede votar, le falta " + edadFaltante + " años";
+    }
+}
+
+console.log(edadPersona(16))
 
 // 5. Usa el operador ternario para asignar el valor "adulto" o "menor" a una variable
 //    dependiendo de la edad 
